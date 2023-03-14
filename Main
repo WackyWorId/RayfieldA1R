@@ -1,11 +1,6 @@
 --[[
-
-Rayfield Interface Suite
-by Sirius
-
-shlex | Designing + Programming
-iRay  | Programming
-
+NOTE: THIS IS A MODIFIED VERSION. I AM NOT THE OWNER OF THE UI LIB. THE RIGHTFUL OWNER BELONGS TO SIRIUS AND THE NAME OF THE ORIGINAL IS RAYFIELD.
+ - WackyWorld
 ]]
 
 
@@ -251,7 +246,7 @@ local function LoadConfiguration(Configuration)
 				end    
 			end)
 		else
-			RayfieldLibrary:Notify({Title = "Flag Error", Content = "Rayfield was unable to find '"..FlagName.. "'' in the current script"})
+			RayfieldLibrary:Notify({Title = "Flag Error", Content = "Hub was unable to find '"..FlagName.. "'' in the current script"})
 		end
 	end)
 end
