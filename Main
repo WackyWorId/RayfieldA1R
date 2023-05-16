@@ -33,27 +33,27 @@ local ConfigurationExtension = ".rfld"
                 NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
     
                 TabBackground = Color3.fromRGB(116, 33, 158),
-                TabStroke = Color3.fromRGB(45, 11, 117),
-                TabBackgroundSelected = Color3.fromRGB(169, 49, 234),
+                TabStroke = Color3.fromRGB(85, 85, 85),
+                TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
                 TabTextColor = Color3.fromRGB(240, 240, 240),
                 SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
     
-                ElementBackground = Color3.fromRGB(24, 5, 36),
-                ElementBackgroundHover = Color3.fromRGB(14, 3, 21),
-                SecondaryElementBackground = Color3.fromRGB(24, 5, 36), -- For labels and paragraphs
+                ElementBackground = Color3.fromRGB(35, 35, 35),
+                ElementBackgroundHover = Color3.fromRGB(40, 40, 40),
+                SecondaryElementBackground = Color3.fromRGB(25, 25, 25), -- For labels and paragraphs
                 ElementStroke = Color3.fromRGB(110, 43, 172),
-                SecondaryElementStroke = Color3.fromRGB(24, 5, 36), -- For labels and paragraphs
+                SecondaryElementStroke = Color3.fromRGB(40, 40, 40), -- For labels and paragraphs
     
-                SliderBackground = Color3.fromRGB(144, 75, 171),
-                SliderProgress = Color3.fromRGB(48, 22, 79),
-                SliderStroke = Color3.fromRGB(52, 15, 95),
+                SliderBackground = Color3.fromRGB(60, 60, 60),
+                SliderProgress = Color3.fromRGB(60, 60, 60),
+                SliderStroke = Color3.fromRGB(70, 70, 70),
     
                 ToggleBackground = Color3.fromRGB(30, 30, 30),
-                ToggleEnabled = Color3.fromRGB(62, 15, 100),
+                ToggleEnabled = Color3.fromRGB(65,65,65),
                 ToggleDisabled = Color3.fromRGB(100, 100, 100),
-                ToggleEnabledStroke = Color3.fromRGB(40, 19, 65),
+                ToggleEnabledStroke = Color3.fromRGB(50, 50, 50),
                 ToggleDisabledStroke = Color3.fromRGB(125, 125, 125),
-                ToggleEnabledOuterStroke = Color3.fromRGB(79, 39, 125),
+                ToggleEnabledOuterStroke = Color3.fromRGB(40,40,40),
                 ToggleDisabledOuterStroke = Color3.fromRGB(65, 65, 65),
     
                 InputBackground = Color3.fromRGB(30, 30, 30),
@@ -73,7 +73,7 @@ local ConfigurationExtension = ".rfld"
     
                 TabBackground = Color3.fromRGB(220, 220, 220),
                 TabStroke = Color3.fromRGB(112, 112, 112),
-                TabBackgroundSelected = Color3.fromRGB(0, 142, 208),
+                TabBackgroundSelected = Color3.fromRGB(65, 65, 65),
                 TabTextColor = Color3.fromRGB(240, 240, 240),
                 SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
     
