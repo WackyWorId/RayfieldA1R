@@ -45,8 +45,8 @@
                 SecondaryElementStroke = Color3.fromRGB(40, 40, 40), -- For labels and paragraphs
     
                 SliderBackground = Color3.fromRGB(43, 105, 159),
-                SliderProgress = Color3.fromRGB(43, 105, 159),
-                SliderStroke = Color3.fromRGB(48, 119, 177),
+                SliderProgress = Color3.fromRGB(40, 40, 40),
+                SliderStroke = Color3.fromRGB(60, 60, 60),
     
                 ToggleBackground = Color3.fromRGB(30, 30, 30),
                 ToggleEnabled = Color3.fromRGB(60, 60, 60),
